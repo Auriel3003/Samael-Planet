@@ -1,0 +1,2 @@
+com/example/planeto/BuildConfig.java
+ com.example.planeto.BuildConfig
