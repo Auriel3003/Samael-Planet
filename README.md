@@ -1,6 +1,6 @@
 # Samael-Planet
 
-This app is written 100% in KOTLIN
+**This app is written 100% in KOTLIN**
 
 The screens used here are :
 
@@ -30,3 +30,5 @@ The screens used here are :
          
          **Please note that none of the planet is accessable for RIDE**
          **But, I am working with Elon Musk on this matter : ) **         
+
+_please note that images will be found in this [directory](https://github.com/Auriel3003/Samael-Planet/tree/main/screenshot)_
